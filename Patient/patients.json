@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul Sharma",
+    "age": 28,
+    "gender": "Male",
+    "blood_group": "O+",
+    "phone": "9876543210",
+    "city": "Lucknow",
+    "diagnosis": "Fever",
+    "doctor": "Dr. Amit Verma"
+  },
+  {
+    "id": 2,
+    "name": "Priya Singh",
+    "age": 34,
+    "gender": "Female",
+    "blood_group": "A+",
+    "phone": "9876543211",
+    "city": "Kanpur",
+    "diagnosis": "Migraine",
+    "doctor": "Dr. Neha Gupta"
+  },
+  {
+    "id": 3,
+    "name": "Amit Kumar",
+    "age": 45,
+    "gender": "Male",
+    "blood_group": "B+",
+    "phone": "9876543212",
+    "city": "Lucknow",
+    "diagnosis": "Diabetes",
+    "doctor": "Dr. Rajesh Singh"
+  },
+  {
+    "id": 4,
+    "name": "Sneha Verma",
+    "age": 25,
+    "gender": "Female",
+    "blood_group": "AB+",
+    "phone": "9876543213",
+    "city": "Prayagraj",
+    "diagnosis": "Anemia",
+    "doctor": "Dr. Pooja Sharma"
+  },
+  {
+    "id": 5,
+    "name": "Vikas Yadav",
+    "age": 52,
+    "gender": "Male",
+    "blood_group": "O-",
+    "phone": "9876543214",
+    "city": "Varanasi",
+    "diagnosis": "Hypertension",
+    "doctor": "Dr. Amit Verma"
+  },
+  {
+    "id": 6,
+    "name": "Anjali Mishra",
+    "age": 31,
+    "gender": "Female",
+    "blood_group": "B-",
+    "phone": "9876543215",
+    "city": "Lucknow",
+    "diagnosis": "Asthma",
+    "doctor": "Dr. Neha Gupta"
+  },
+  {
+    "id": 7,
+    "name": "Rohit Gupta",
+    "age": 40,
+    "gender": "Male",
+    "blood_group": "A-",
+    "phone": "9876543216",
+    "city": "Agra",
+    "diagnosis": "Back Pain",
+    "doctor": "Dr. Rajesh Singh"
+  },
+  {
+    "id": 8,
+    "name": "Kavita Singh",
+    "age": 29,
+    "gender": "Female",
+    "blood_group": "O+",
+    "phone": "9876543217",
+    "city": "Lucknow",
+    "diagnosis": "Thyroid",
+    "doctor": "Dr. Pooja Sharma"
+  },
+  {
+    "id": 9,
+    "name": "Arjun Patel",
+    "age": 37,
+    "gender": "Male",
+    "blood_group": "AB-",
+    "phone": "9876543218",
+    "city": "Noida",
+    "diagnosis": "Cholesterol",
+    "doctor": "Dr. Amit Verma"
+  },
+  {
+    "id": 10,
+    "name": "Neha Agarwal",
+    "age": 42,
+    "gender": "Female",
+    "blood_group": "A+",
+    "phone": "9876543219",
+    "city": "Delhi",
+    "diagnosis": "Arthritis",
+    "doctor": "Dr. Neha Gupta"
+  }
+]
